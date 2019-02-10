@@ -225,30 +225,26 @@ a {
 }
 
 .jkcxkj-menu-active {
-	/*background-color: #0086da;
-	border-radius: 5px;*/
-	border-bottom: 4px solid #0086da;
+	border-bottom: 3px solid #409AF7;
 }
 
 .jkcxkj-menu-active a {
-	color: #0086da;
+	/*color: #0086da;*/
+	color:#409AF7;
 }
 
 .jkcxkj-menu li:hover {
-	border-bottom: 4px solid #f0eeed;
+	border-bottom: 3px solid rgb(25, 118, 210);
 }
 
 .jkcxkj-menu li a:hover {
-	color: #C0C0C0;
+	color: #409AF7;
+	border-radius: 5px;
 }
 
 .jkcxkj-menu li a {
-	font-size: 15px;
+	font-size: 18px;
 	line-height: 80px;
-}
-
-.jkcxkj-menu li a:hover {
-	border-radius: 5px;
 }
 
 
