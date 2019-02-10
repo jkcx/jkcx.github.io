@@ -28,17 +28,13 @@
 
 footer.footer{
     padding: 0 5% 25px 5%;
-    background-image: url("../images/jkcxkj-bg-1440.png");
-    background-repeat: no-repeat;
-    /*background-size: 1440px;*/
-    background-size: 100%;
-    background-position: center -30px;
-    height: 460px;
-
+    height: 336px;
+    background-color: #4b5054;
 }
 
 footer.footer .part-5-title{
     font-size: 24px;
+    color:#d7d8d9;
 }
 
 footer.footer .part-5-title:hover{
@@ -56,4 +52,9 @@ footer.footer .part-5-words2-ul li{
 
 footer.footer .part-5-words2 p{
     font-size: 16px;
+}
+
+footer.footer .copyright{
+    color:#d7d8d9;
+    padding-top: 20px;
 }
