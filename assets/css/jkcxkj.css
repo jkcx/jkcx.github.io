@@ -1,0 +1,59 @@
+#jkcxkj-name{
+    font-size: 33px;
+    vertical-align: bottom;
+    color: #409AF7;
+}
+
+.part-title{
+
+}
+
+.part-title .part-title-span:hover{
+    color: #409AF7;
+}
+.part-title .part-subTitle:hover{
+    color: #409AF7;
+}
+
+#solutionsUl{
+
+}
+
+#solutionsUl li{
+}
+
+.solutions-way{
+    height: 60px;
+}
+
+footer.footer{
+    padding: 0 5% 25px 5%;
+    background-image: url("../images/jkcxkj-bg-1440.png");
+    background-repeat: no-repeat;
+    /*background-size: 1440px;*/
+    background-size: 100%;
+    background-position: center -30px;
+    height: 460px;
+
+}
+
+footer.footer .part-5-title{
+    font-size: 24px;
+}
+
+footer.footer .part-5-title:hover{
+    color:#409AF7;
+}
+
+footer.footer ul{
+    width:90%;
+}
+
+
+footer.footer .part-5-words2-ul li{
+    font-size:16px;
+}
+
+footer.footer .part-5-words2 p{
+    font-size: 16px;
+}
