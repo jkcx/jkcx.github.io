@@ -7,7 +7,7 @@
 ##### 四、为企业和个人提供一站式软件解决方案
 
 #### 官方微信公众号: 极客创想科技
-![极客创想科技](https://raw.githubusercontent.com/jkcx/jkcx.github.io/master/img/jkcxkj-weixin-gzh.jpg)
+![极客创想科技](https://raw.githubusercontent.com/jkcx/jkcx.github.io/master/assets/img/jkcxkj-weixin-gzh.jpg)
 
 #### 官方微信号: jkcxkj  
-![官方微信号](https://raw.githubusercontent.com/jkcx/jkcx.github.io/master/img/jkcxkj-weixin-258.jpg)
+![官方微信号](https://raw.githubusercontent.com/jkcx/jkcx.github.io/master/assets/img/jkcxkj-weixin-258.jpg)
